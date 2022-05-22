@@ -1,0 +1,5 @@
+.DS_Store
+bin
+coverage
+test-report.unit.xml
+build
